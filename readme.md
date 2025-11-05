@@ -2,7 +2,7 @@ Hello world!
 
 Team: 
 - Emrys Cruz Viera
-- Christopher Chapman
+- Christopher "James" Chapman
 - Albert Tagoe
 - Zachary Brodahl
 - Eve Weston
