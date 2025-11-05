@@ -1,8 +1,2 @@
 Hello world!
-
-Team: 
-- Emrys Cruz Viera
-- Chris James Chapman
-- Albert Tagoe
-- Zachary Brodahl
-- Eve Weston
+F u guys, im quiutting!!!
