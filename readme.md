@@ -5,3 +5,4 @@ Team:
 - Chris Chapman
 - Albert Tagoe
 - Zachary Brodahl
+- Eve Weston
